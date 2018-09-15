@@ -9,6 +9,8 @@ email: asahi@alpgo.cc
 
 baseurl: ""
 
+avatarUrl: "https://images.alpgo.cc/images/avatar-asahiluna.png"
+
 permalink: /:year/:month/:day/:title/
 
 exclude: ['README.md']
