@@ -1,12 +1,11 @@
 # Site settings
-name: 董小姐
-location: 大连
-company: IBM
-position: Java开发工程师
-github: https://github.com/
-facebook: https://www.facebook.com/
-phone: 1580424XXXX
-email: xxxx@xxx.com
+name: 张泽旭
+location: 上海
+company: Augmentum
+position: 助理软件工程师
+github: https://github.com/AsahiLuna/
+phone: 1589735XXXX
+email: asahi@alpgo.cc
 
 baseurl: ""
 
