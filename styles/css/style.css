@@ -4971,6 +4971,10 @@ h1, h2, h3, h4, h5, h6 {
     .ace-head-inner {
         padding: 0;
     }
+
+    .hidden-on-mobile-device {
+        display: none;
+    }
 }
 
 .ace-head-row {
